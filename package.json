@@ -1,6 +1,7 @@
 {
   "name": "shareitfrontend",
   "version": "0.1.0",
+  "author": "Vidal Rosas <vidalrosc@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -22,6 +23,6 @@
     "eslint-config-next": "11.0.1"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": "20.11.1"
   }
 }
