@@ -4,7 +4,7 @@
   "author": "Vidal Rosas <vidalrosc@gmail.com>",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "node --openssl-legacy-provider ./node_modules/.bin/next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
